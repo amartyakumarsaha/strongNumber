@@ -1,0 +1,2 @@
+# strongNumber
+check_StrongNumber
